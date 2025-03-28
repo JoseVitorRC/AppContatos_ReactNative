@@ -1,1 +1,0 @@
-# AppContatos_ReactNative
